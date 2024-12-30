@@ -1,1 +1,2 @@
 Ini adalah latihan Git pertama.
+Ini adalah tambahan pada latihan pertama.
